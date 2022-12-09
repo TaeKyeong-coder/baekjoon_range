@@ -1,8 +1,8 @@
 ## 백준/단계별로 풀어보기/정렬
-</br>
 * https://www.acmicpc.net/step/9
-</br>
-</br>
+
+
+
 ***
 * 참고 사이트
 * 이진탐색 제공 함수(https://chanhuiseok.github.io/posts/algo-55/)
