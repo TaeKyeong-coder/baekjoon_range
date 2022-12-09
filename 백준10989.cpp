@@ -32,7 +32,7 @@ int main() {
     }
     
     //출력1 
-    mean = round((float)mean / N);
+    mean = round((float)mean / N); //round함수 => cmath library 
     
     //출력2 
     sort(arr.begin(),arr.end());
